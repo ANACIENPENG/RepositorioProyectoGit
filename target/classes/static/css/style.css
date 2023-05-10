@@ -19,7 +19,7 @@
 }
 
 body {
-    background: #A5DAD2;
+    background: #000000;
     font-family: Quicksand, san-serif;
 }
 
@@ -32,11 +32,11 @@ body {
 }
 
 .bgDark {
-    background: #516D66;
+    background: #079407;
 }
 
 .colorDark {
-    color: #516D66;
+    color: #079407;
 }
 
 .bgRed {
